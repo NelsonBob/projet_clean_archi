@@ -1,0 +1,4 @@
+package fr.esgi.taskmanager.kernel;
+
+public interface Query{
+}
